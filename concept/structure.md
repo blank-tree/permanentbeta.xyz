@@ -23,3 +23,12 @@
 	- the act of timing/efficiency
 - utopia/dystopia / hypernormalisation
 	- what is progress today / do we progress further
+
+
+## Sources
+
+[HyperNormalisation – how to be heard on the internet and occupy wall street](https://youtu.be/-fny99f8amM?t=7426)
+
+[Arkady and Boris Strugatsky: Roadside Picnic](https://en.wikipedia.org/wiki/Roadside_Picnic)
+[Foucault: Heterotopia](https://en.wikipedia.org/wiki/Heterotopia_(space))
+[Foucault: Panopticism](https://en.wikipedia.org/wiki/Panopticism)
