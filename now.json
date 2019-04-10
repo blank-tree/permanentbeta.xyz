@@ -2,6 +2,6 @@
   "version": 2,
   "name": "permanentbeta.xyz",
   "builds": [
-  	{"src": "*.html", "use": "@now/static"}
+  	{ "src": "next.config.js", "use": "@now/next" }
   ]
 }
