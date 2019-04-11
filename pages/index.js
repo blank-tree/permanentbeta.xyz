@@ -4,6 +4,7 @@ import Para from '../components/para';
 import ReactDOM from 'react-dom';
 import ReactMarkdown from 'react-markdown';
 
+import 'semantic-ui-css/semantic.min.css'
 import '../styles/styles.scss';
 
 export default class MyIndex extends Component {
@@ -23,7 +24,7 @@ export default class MyIndex extends Component {
 			<div>
 				<h1>Permanent Beta</h1>
 				<Para title="test1" paragraph="<p>mein text</p>" />
-				<ReactMarkdown source={permanentBeta} />
+				<ReactMarkdown source={permanentBeta.default} />
 			</div>
 
 			);
