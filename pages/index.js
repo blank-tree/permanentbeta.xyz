@@ -1,36 +1,23 @@
 import React, {Component} from 'react';
+import Intro from '../components/intro';
 import Para from '../components/para';
 import ReactDOM from 'react-dom';
 import ReactMarkdown from 'react-markdown';
-import marked from 'marked';
-import fetch from 'cross-fetch';
 
 import '../styles/styles.scss';
-
-
 
 export default class MyIndex extends Component {
 	constructor(props) {
 		super(props);
 		this.state = {
-			permanentBeta: null
+			permanentBeta: 'null'
 		};
 	}
 
-	static getInitialProps() {
-		const permanentBetaPath = '../content/permanentbeta.md';
-
-		fetch(permanentBetaPath)
-			.then(response => {
-				return response.text();
-			})
-			.then(text => {
-				this.setState({
-					permanentBeta: marked(text)
-				})
-			});
-
-		return {...pageProps};
+	static async getInitialProps({req}) {
+		
+		const permanentBeta = await require(`../content/permanentbeta.md`);
+		return {permanentBeta};
 	}
 
 	render() {
@@ -42,6 +29,7 @@ export default class MyIndex extends Component {
 			<div>
 				<h1>Permanent Beta</h1>
 				<Para title="test1" paragraph="<p>mein text</p>" />
+				<ReactMarkdown source={this.props.permanentBeta} />
 			</div>
 
 			);
