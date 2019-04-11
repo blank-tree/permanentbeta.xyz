@@ -3,6 +3,7 @@ import Para from '../components/para';
 import ReactDOM from 'react-dom';
 import ReactMarkdown from 'react-markdown';
 import marked from 'marked';
+import fetch from 'cross-fetch';
 
 import '../styles/styles.scss';
 
@@ -28,6 +29,8 @@ export default class MyIndex extends Component {
 					permanentBeta: marked(text)
 				})
 			});
+
+		return {...pageProps};
 	}
 
 	render() {
