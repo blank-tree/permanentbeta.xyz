@@ -1,12 +1,14 @@
 const withSass = require('@zeit/next-sass');
 module.exports = withSass({
 	webpack: (config) => {
-		config.module.rules.push({
-			test: /\.md$/,
-        	use: 'raw-loader'
-		});
+    config.module.rules.push(
+      {
+        test: /\.md$/,
+        use: 'raw-loader'
+      }
+    )
 
-		return config;
-	},
+    return config
+  },
 	target: 'serverless'
 });

@@ -7,12 +7,6 @@ import ReactMarkdown from 'react-markdown';
 import '../styles/styles.scss';
 
 export default class MyIndex extends Component {
-	constructor(props) {
-		super(props);
-		this.state = {
-			permanentBeta: 'null'
-		};
-	}
 
 	static async getInitialProps({req}) {
 		
@@ -22,14 +16,14 @@ export default class MyIndex extends Component {
 
 	render() {
 
-		const {permanentBeta} = this.state;
+		const {permanentBeta} = this.props;
 
 		return(
 
 			<div>
 				<h1>Permanent Beta</h1>
 				<Para title="test1" paragraph="<p>mein text</p>" />
-				<ReactMarkdown source={this.props.permanentBeta} />
+				<ReactMarkdown source={permanentBeta} />
 			</div>
 
 			);
