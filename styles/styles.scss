@@ -1,42 +1,14 @@
-@font-face {
-	font-family: "iA Writer Duospace";
-	font-weight: normal;
-	font-style: normal;
-	src: url("../static/fonts/iAWriterDuospace-Regular.eot") format("embedded-opentype"),
-	url("../static/fonts/iAWriterDuospace-Regular.woff2") format("woff2"),
-	url("../static/fonts/iAWriterDuospace-Regular.woff") format("woff");
-}
-
-@font-face {
-	font-family: "iA Writer Duospace";
-	font-weight: normal;
-	font-style: italic;
-	src: url("../static/fonts/iAWriterDuospace-Italic.eot") format("embedded-opentype"),
-	url("../static/fonts/iAWriterDuospace-Italic.woff2") format("woff2"),
-	url("../static/fonts/iAWriterDuospace-Italic.woff") format("woff");
-}
-
-@font-face {
-	font-family: "iA Writer Duospace";
-	font-weight: bold;
-	font-style: normal;
-	src: url("../static/fonts/iAWriterDuospace-Bold.eot") format("embedded-opentype"),
-	url("../static/fonts/iAWriterDuospace-Bold.woff2") format("woff2"),
-	url("../static/fonts/iAWriterDuospace-Bold.woff") format("woff");
-}
-
-@font-face {
-	font-family: "iA Writer Duospace";
-	font-weight: bold;
-	font-style: italic;
-	src: url("../static/fonts/iAWriterDuospace-BoldItalic.eot") format("embedded-opentype"),
-	url("../static/fonts/iAWriterDuospace-BoldItalic.woff2") format("woff2"),
-	url("../static/fonts/iAWriterDuospace-BoldItalic.woff") format("woff");
-}
-
+ @import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono');
+ @import url('https://fonts.googleapis.com/css?family=VT323');
 
 body {
-	font-family: 'iA Writer Duospace', monospace;
+	font-family: 'IBM Plex Mono', monospace;
 	font-size: 1rem;
 	line-height: 1.5;
+	background: #222;
+	color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'VT323', monospace;
 }
