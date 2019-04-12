@@ -56,9 +56,9 @@ export default class Export extends Component {
 
 			<p>It can be argued, that the human &quot;need&quot; to receive, transfer and share information as a survival mechanism found its logical continuation in the internet. The efficient transfer from speech, to text in its physical form to a fluid accessible digital form divided in bits and bytes delivered to our screens is a causality follow by an ideology of constant progress as a society and species. But in this regard, I'm confused by what &quot;progress&quot; actually is: </p>
 
-			<p><iframe src="https://player.vimeo.com/video/191817381#t=23m26s" width="640" height="358" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></p>
+			<p><iframe src="https://player.vimeo.com/video/191817381#t=23m26s" width="640" height="358" frameBorder="0" allow="autoplay; fullscreen"></iframe></p>
 
-			<p><iframe src="https://player.vimeo.com/video/300725472#t=28m" width="640" height="358" frameborder="0" allow="autoplay; fullscreen"></iframe></p>
+			<p><iframe src="https://player.vimeo.com/video/300725472#t=28m" width="640" height="358" frameBorder="0" allow="autoplay; fullscreen"></iframe></p>
 
 			<h2>About</h2>
 
