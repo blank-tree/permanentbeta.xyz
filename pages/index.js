@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import Intro from '../components/intro';
-import Para from '../components/para';
+// import Para from '../components/para';
 import ContentExport from '../components/contentexport';
 import ReactDOM from 'react-dom';
 import ReactMarkdown from 'react-markdown';
@@ -25,7 +25,7 @@ export default class MyIndex extends Component {
 
 			<Grid container columns={1}>
 				<Grid.Column>
-					<h1>Permanent Beta</h1>
+					<Intro title="Permanent Beta"/>
 					<ContentExport />
 				</Grid.Column>
 			</Grid>

@@ -28,7 +28,18 @@ The description Foucault provided seems to be fitting to a romantic description 
 > Heterotopias always presuppose a system of opening and closing that  both  isolates  them and  makes  them penetrable. In general, the heterotopic site is not freely accessible like a public place. Either the entry is compulsory, as in the case of entering a barracks or a prison, or else the individual has to submit to rites and purifications. To get in one must have a certain permission and make certain gestures. \[...]\
 [Michel Foucault: *Of Other Spaces: Utopias and Heterotopias*](http://web.mit.edu/allanmc/www/foucault1.pdf)
 
-The submission to these new forms of communication is becoming a requirement to stay relevant within society, with even jobs requiring digital application in fields which don't this specific skillset in their practice. To a certain extend, the ability to navigate through the digital forms of communication and interaction became the new center piece our education is concerned and struggling with to give people the means to comprehend our world. But this tends towards the usage and not the understanding or reflections of these "tools". In conclusion, the 
+The submission to these new forms of communication is becoming a requirement to stay relevant within society, with even jobs requiring digital application in fields which don't this specific skillset in their practice. To a certain extend, the ability to navigate through the digital forms of communication and interaction became the new center piece our education is concerned and struggling with to give people the means to comprehend our world. But this tends towards the usage and not the understanding or reflections of these "tools". If we follow the submission we're actively dividing our society into "users of technology" and "absentees". The threshold that one has to overcome to communicate with someone for longer then just one or two interactions in person **without** a smartphone[^this is going to be crucial to update in the future! Who knows when the next thing will take over...] and availability through instant messaging or e-mail, is larger in comparison than with someone who's using these tools like you. Maybe we're constantly peer-pressuring – without specifically intending to do so – other people to join our digital heterotopia of efficiency. 
+
+## All linked by information
+
+![](https://imgs.xkcd.com/comics/wikipedian_protester.png)
+
+It can be argued, that the human "need" to receive, transfer and share information as a survival mechanism found its logical continuation in the internet. The efficient transfer from speech, to text in its physical form to a fluid accessible digital form divided in bits and bytes delivered to our screens is a causality follow by an ideology of constant progress as a society and species. But in this regard, I'm confused by what "progress" actually is: 
+
+<iframe src="https://player.vimeo.com/video/191817381#t=23m26s" width="640" height="358" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/300725472#t=28m" width="640" height="358" frameborder="0" allow="autoplay; fullscreen"></iframe>
+
 
 ## About
 In the beginning, this essay was written by [Fernando Obieta](https://fernando-obieta.com) in his second Semester at the [Zurich University of the Arts](https://zhdk.ch) enrolled in the masters program ["Transdisciplinary Studies in the Arts"](https://www.zhdk.ch/en/degree-programmes/transdisciplinary-studies-73/transdisciplinarystudies).
