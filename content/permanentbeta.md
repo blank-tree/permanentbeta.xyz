@@ -99,8 +99,9 @@ When we apply the same logic Arkady and Boris Strugatsky coined with "HyperNorma
 - 23:20 on a Sunday: Here's the assignment. Done by tomorrow at noon.
 - I saw that you're friends now with Laura on *Facebook*. You know I hate her!
 
-Maybe we're just pretending that these forms of communication are "better" or "progress". They seem to make us more efficient but everything is also trying to get our attention and must be dealt with immediately. But if this thesis is true, why are we pretending? The only possibility I can think of is an empowered drive for validation and 
+Maybe we're just pretending that these forms of communication are "better" or "progress". They seem to make us more efficient but everything is also trying to get our attention and must be dealt with immediately. But if this thesis is true, why are we pretending? The only possibility I can think of is an empowered drive for validation and looking for the "best possible solution" for ourself as in an evolutionary drive.
 
+In his book "The Insanity of Normality" the psychologist and psychoanalyst [Arno Gruen](https://en.wikipedia.org/wiki/Arno_Gruen) is looking for a reasoning for this way of behaviour and describes the empathatic nature of "wanting to be loved" and "wants to love others" in exchange of autonomy. We like to be guided towards these feelings and don't tend to reflect the means of how we achieve them in the process as long as they fulfil our desires. In this regard is the shift towards these new forms of communication almost logical with their quick fixes of affirmation.
 
 
 ## Who is my avatar
