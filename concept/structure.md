@@ -1,4 +1,4 @@
-# Structure for PM
+# Structure for PB
 
 - introduction
 - about

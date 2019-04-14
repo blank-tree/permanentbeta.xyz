@@ -1,4 +1,4 @@
-# features for PM
+# features for PB
 
 - commit history and display changes... with github
 - the meaning of the paragraphs change over time / after reload

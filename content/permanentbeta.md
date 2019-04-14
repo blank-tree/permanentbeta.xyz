@@ -15,7 +15,7 @@ This essay doesn't only give a highly subjective and opinionated view of the mat
 Because of the previously described nature of this essay, I'm already providing my conclusion of the following paragraphs: Dividing opinions regarding the internet in dystopian or utopian camps misses the opportunity to think of something in between: The act of the translation into the digital realm itself. This act – combined with the fact that any practice of abstraction and/or translation has to deal with a certain amount of loss of information – offers a working surface to place critique which can lead to reflection on the concept being translated regardless if it's revering to the "original" concept or the newly installed digital one. And right now, when we talk about "digitization", is the moment to work on this before we're unable to distinguish between the implementation and the practice itself and the translation becomes the replacing instance.
 
 ## About
-In the beginning, this essay was written by [Fernando Obieta](https://fernando-obieta.com) in his second Semester at the [Zurich University of the Arts](https://zhdk.ch) enrolled in the masters program ["Transdisciplinary Studies in the Arts"](https://www.zhdk.ch/en/degree-programmes/transdisciplinary-studies-73/transdisciplinarystudies).
+In the beginning, this essay was written by [Fernando Obieta](https://fernando-obieta.com) in his second Semester at the [Zurich University of the Arts](https://zhdk.ch) enrolled in the masters program ["Transdisciplinary Studies in the Arts"](https://www.zhdk.ch/en/degree-programmes/transdisciplinary-studies-73/transdisciplinarystudies). Thanks goes to: [Prof. Irene Vögeli](https://www.zhdk.ch/person/7848), [Basil Rogger](https://www.zhdk.ch/person/11115), [Jil Sanchez](https://jilsanchez.com/) and Marco Wettach.
 
 ## The digital space
 
@@ -43,7 +43,8 @@ Do you have *Facebook, Instagram, GMail, Skype, WhatsApp, Twitter, Telegram, Sig
 Have you seen my *Instagram Story*?\
 Have you seen what Elon Musk posted on *Twitter* this morning?\
 Are you coming to the party I've invited you to on *Facebook*?\
-Did you watch the newest episode of "Game of Thrones" on *HBO*?
+Did you watch the newest episode of "Game of Thrones" on *HBO*?\
+Did you read my text about your assignment next week on *WhatsApp*?
 
 Our private and social lives are more intertwined than ever before with these tools. They're telling us, that you're relevant and part of society if you're using them; if you're following the people you admire and know; if you're showing the world who you actually are; if you're telling your story; and all of this not just inside an external isolated space with its own rules, but within a layer entangled with society and our everyday lives, abstracted from our past, present and – through absorption – also future concepts of interactions with each other. 
 
@@ -52,6 +53,7 @@ Our private and social lives are more intertwined than ever before with these to
 The translation of man made concepts and system into a computer system requires the hard choice of determining what an analogue value is into a digital one. 1s and 0s. Not every system we have in place is able to be abstracted in such a form, and even though a few of them are, are the problems of man made system of responsibility and agency even in seemingly easy examples hard to put down:
 
 <div class="embed-container"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w3_0x6oaDmI?rel=0" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe></div>
+*Tom Scott, 2014*[^[*Computerphile, Tom Scott, 2014: Why Electronic Voting is a BAD Idea*, YouTube](https://youtu.be/w3_0x6oaDmI)]
 
 If we can bring it in a digital form, with the promise of "better" integration for the people using it, why shouldn't we do it? The pretense might be even a noble one, but the impact and consequences might be unforeseeable, especially with something as delicate like human interaction. The example above about voting mechanisms illustrates that even man made systems of representation and responsibility like the simple "yes" or "no" to a question posed by a government to its citizens is practically impossible without creating new forms of exploitation.
 I argue, that it isn't solely about the shift in agency but also about the shift of responsibility from people with the knowledge of the context to programmers.
@@ -65,14 +67,18 @@ Webb talks about designers here, but I think the comparison to programmers isn't
 > "We are quite willing to admit that technology is the extension of our organs. We knew it was the reduction of force. We had simply forgotten that it was also the delegation of our morality. The missing mass is before our eyes, everywhere present, in what we admiringly or scornfully call the world of efficiency and function. Do we lack morality in our technological societies? Not at all. Not only have we recuperated the mass that we lacked to complete our sum, but we can see that we are infinitely more moral than our predecessors."\
 *Bruno Latour, 1989*[^[Bruno Latour, 1989: *La Ceinture de sécurité”*, in Alliage N°1 p.21-27. Traduction inédite en anglais, unpublished English translation by Lydia Davis](https://courses.ischool.berkeley.edu/i290-tpl/s11/w/images/6/69/The_Moral_Dilemmas_of_a_Safety-belt.pdf), p. 6]
 
+By relocating the morality out of the individual into an artefact pushes the user of the artefact to follow the morality. The specific morality and its orientation isn't chosen by the user anymore but the creators of the artefact. This way of thinking – organising morality, efficiency and risk – was the dream of cybernetics and system-theorists. An overspanning all including system which regulates all of its components with feedback-loops:
+
 <div class="embed-container"><iframe src="https://player.vimeo.com/video/300725472#t=28m" width="640" height="358" frameborder="0" allow="autoplay; fullscreen"></iframe></div>
 
 *Adam Curtis, 2011*, 28:00 – 36:05[^[Adam Curtis, 2016: *All Watched Over by Machines of Loving Grace - Episode 2 - The Use and Abuse of Vegetational Concepts*, BBC](https://vimeo.com/300725472), 28:00 – 36:05]
 
+The level of complexity far overreaches the capacity of our understanding of how society and nature operate. But the believe in this vision, of a model to regulate and comprehend the world we're in lead to a "trust" in machines, which they will never be able to fulfill. A machine or system can never exceed its creators in their vision, only in efficiency, and this efficiency only scales the subjective understanding its creators have put into it and can't eradicate it[^Like the many times programs operated by ["machine learning"](https://en.wikipedia.org/wiki/Machine_learning) – to which people often falsely refer to as ["A.I."](https://en.wikipedia.org/wiki/Artificial_intelligence) – created [racist](https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist) or [biased](https://www.technologyreview.com/s/612876/this-is-how-ai-bias-really-happensand-why-its-so-hard-to-fix/) outcomes]. But this mislead trust in these "neutral" and "objective" machines averts us from the fact that they will never be able to "solve" our social challenges which we'll have to carry out ourselves now and in the future and these biased machines can only be what they were before: a tool or an enhancement:
+
+> "Now, it might be that in any technological utopia which we have any real chance of creating, all individuals will remain constrained in important ways. In addition to the challenges of the physical frontiers, which might at this stage be receding into deep space as the posthuman civilization expands beyond its native planet, there are the challenges created by the existence of other posthumans, that is, the challenges of the social realm. Resources even in Plastic World would soon become scarce if population growth is exponential, but aside from material constraints, individual agents would face the constraints imposed on them by the choices and actions of other agents. Insofar as our goals are irreducibly social – for example to be loved, respected, given special attention or admiration, or to be allowed to spend time or to form exclusive bonds with the people we choose, or to have a say in what other people do – we would still be limited in our ability to achieve our goals. Thus, a being in Plastic World may be very far from omnipotent. Nevertheless, we may suppose that a large portion of the constraints we currently face have been lifted and that both our internal states and the world around us have become much more malleable to our wishes and desires."\
+*Nick Bostrom, 2007*[^[Nick Bostrom, 2007, *Dignity and Enhancement*](https://nickbostrom.com/ethics/dignity-enhancement.pdf), p. 30]
 
 
-> a quote here\
-*Nick Bostrom, 2008*[^[Nick Bostrom, 2008, *Letter from Utopia*](https://nickbostrom.com/utopia.html), Studies in Ethics, Law, and Technology, Vol. 2, No. 1 (2008), p. 5]
 
 ## All linked by information
 
@@ -89,3 +95,6 @@ It can be argued, that the human "need" to receive, transfer and share informati
 Various science fiction writers described utopian or dystopian worlds in which the society in it is deprived of reflection on their guiding systems. Like in "Brave new world" by Aldous Huxley in which the actors of a society are pressuring each other to take the happiness-producing drug "soma". When you compare this drug to the pressure of availability and representation on social media platforms like Facebook and Instagram on which everyone is happy, everyone is successful and everyone is doing great things in their individual lives, we're practically already doing the same thing. We force upon our individual selves the pressure of capitalization and quantification of each and every aspect of our lives, to show our peers that we're worth the "social capital" that we represent. But the dissonance between our presented selves and how – we think – we are is an age old discussion in sociology and psychology also along the line of how we perceive ourselves. Social media gives us the means to do this in an orderly and structured fashion. You have the same amount of space like everyone else to fill up with as many of things that you see fit to "correctly" show us who you actually are – or you would like us to believe who you are.
 
 In his book "Alienation and Acceleration"[^], Hartmut Rosa argues that the promise of the moderne era is the autonomy to decide – individually and collectively – what self-determination is. How much power do we *want* to 
+
+<hr />
+*come back another time. who knows what you'll find...*
