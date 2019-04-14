@@ -1,48 +1,107 @@
  @import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono');
  @import url('https://fonts.googleapis.com/css?family=VT323');
 
-* {
-	background: #222;
-}
+ $font-color: #fff;
+ $anchor-color: #00ff41;
+ $background-color: #222;
 
-body {
-	font-family: 'IBM Plex Mono', monospace;
-	font-size: 1rem;
-	color: #fff;
-}
+ * {
+ 	background: $background-color;
+ }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'VT323', monospace;
-}
+ body {
+ 	font-family: 'IBM Plex Mono', monospace;
+ 	font-size: 1rem;
+ 	color: $font-color;
+ }
 
-h2 {
-	margin-top: 6rem;
-}
+ #intro {
 
-p {
-	line-height: 1.6;
-}
+ 	margin-top: 45vh;
+ 	margin-bottom: 55vh;
 
-blockquote {
-	font-style: italic;
-	border-left: 1px solid #fff;
-	padding-left: 1rem;
-}
+ 	h1 {
+ 		font-size: 3rem;
+ 	}
+ 	
+ }
 
-a, a:hover, a:active, a:visited {
-	text-decoration: underline;
-	color: #00ff41;
-}
+ h1, h2, h3, h4, h5, h6 {
+ 	font-family: 'VT323', monospace;
+ }
 
-figure {
-	text-align: center;
-	img {
-		margin-top: 0.5rem;
-		margin-bottom: 1rem;
+ h2 {
+ 	margin-top: 6rem;
+ }
+
+ p {
+ 	line-height: 1.6;
+ }
+
+ blockquote {
+ 	font-style: italic;
+ 	border-left: 1px solid $font-color;
+ 	padding-left: 1rem;
+ }
+
+ a, a:hover, a:active, a:visited {
+ 	text-decoration: underline;
+ 	color: $anchor-color;
+ }
+
+ figure {
+ 	text-align: center;
+ 	img {
+ 		margin-top: 0.5rem;
+ 		margin-bottom: 1rem;
+ 	}
+ }
+
+
+ .glitch{
+ 	text-transform: uppercase;
+	position:relative;
+	margin:0 auto;
+}
+@keyframes noise-anim{
+	$steps:20;
+	@for $i from 0 through $steps{
+		#{percentage($i*(1/$steps))}{
+			clip:rect(random(100)+px,9999px,random(100)+px,0);
+		}
 	}
 }
 
-article#intro {
-	margin-top: 50vh;
-	margin-bottom: 50vh;
+.glitch:after{
+	content:attr(data-text);
+	position:absolute;
+	left:2px;
+	text-shadow:-1px 0 red;
+	top:0;
+	color: $font-color;
+	background: $background-color;
+	overflow:hidden;
+	clip:rect(0,2000px,0,0);
+	animation:noise-anim 2s infinite linear alternate-reverse;
+}
+
+@keyframes noise-anim-2{
+	$steps:20;
+	@for $i from 0 through $steps{
+		#{percentage($i*(1/$steps))}{
+			clip:rect(random(100)+px,9999px,random(100)+px,0);
+}
+}
+}
+.glitch:before{
+	content:attr(data-text);
+	position:absolute;
+	left:-2px;
+	text-shadow:1px 0 blue;
+	top:0;
+	color: $font-color;
+	background: $background-color;
+	overflow:hidden;
+	clip:rect(0,2000px,0,0);
+	animation:noise-anim-2 3s infinite linear alternate-reverse;
 }

@@ -6,7 +6,7 @@ export default class Intro extends Component {
 
 		return(
 			<article id="intro">
-				<h1>{title}</h1>
+				<h1 className="glitch" data-text={title}>{title}</h1>
 			</article>
 		);
 	}
