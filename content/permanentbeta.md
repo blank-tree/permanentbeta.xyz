@@ -96,5 +96,3 @@ Various science fiction writers described utopian or dystopian worlds in which t
 
 In his book "Alienation and Acceleration"[^], Hartmut Rosa argues that the promise of the moderne era is the autonomy to decide – individually and collectively – what self-determination is. How much power do we *want* to 
 
-<hr />
-*come back another time. who knows what you'll find...*

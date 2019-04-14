@@ -58,6 +58,19 @@
  	}
  }
 
+ footer {
+ 	margin-top: 12rem;
+ 	margin-bottom: 3rem;
+ 	p {
+		text-align: center;
+		
+		&:first-child {
+			font-style: italic;
+			text-align: center;
+		}
+ 	}
+ }
+
  .embed-container {
  	position: relative;
  	padding-bottom: 56.25%;

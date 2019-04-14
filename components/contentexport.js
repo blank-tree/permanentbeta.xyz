@@ -117,9 +117,6 @@ export default class Export extends Component {
 			<p>Various science fiction writers described utopian or dystopian worlds in which the society in it is deprived of reflection on their guiding systems. Like in &quot;Brave new world&quot; by Aldous Huxley in which the actors of a society are pressuring each other to take the happiness-producing drug &quot;soma&quot;. When you compare this drug to the pressure of availability and representation on social media platforms like Facebook and Instagram on which everyone is happy, everyone is successful and everyone is doing great things in their individual lives, we're practically already doing the same thing. We force upon our individual selves the pressure of capitalization and quantification of each and every aspect of our lives, to show our peers that we're worth the &quot;social capital&quot; that we represent. But the dissonance between our presented selves and how – we think – we are is an age old discussion in sociology and psychology also along the line of how we perceive ourselves. Social media gives us the means to do this in an orderly and structured fashion. You have the same amount of space like everyone else to fill up with as many of things that you see fit to &quot;correctly&quot; show us who you actually are – or you would like us to believe who you are.</p>
 
 			<p>In his book &quot;Alienation and Acceleration&quot;[^], Hartmut Rosa argues that the promise of the moderne era is the autonomy to decide – individually and collectively – what self-determination is. How much power do we <em>want</em> to </p>
-			<hr />
-
-			<p><em>come back another time. who knows what you'll find...</em></p>
 
 			<div className="footnotes">
 			<hr />

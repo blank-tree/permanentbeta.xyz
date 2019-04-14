@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import Intro from '../components/intro';
 // import Para from '../components/para';
 import ContentExport from '../components/contentexport';
+import Footer from '../components/footer';
 import ReactDOM from 'react-dom';
 import ReactMarkdown from 'react-markdown';
 import {Grid, Image} from 'semantic-ui-react';
@@ -27,6 +28,7 @@ export default class MyIndex extends Component {
 				<Grid.Column>
 					<Intro title="Permanent Beta"/>
 					<ContentExport />
+					<Footer comeBack="come back another time. who knows what you'll find..." />
 				</Grid.Column>
 			</Grid>
 			);
