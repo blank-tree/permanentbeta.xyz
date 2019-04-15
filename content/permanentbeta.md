@@ -18,7 +18,7 @@ Because of the previously described nature of this essay, I am already providing
 - When we criticise *Google*, we can think about *knowledge*.
 
 ## About
-In the beginning, this essay was written by [Fernando Obieta](https://fernando-obieta.com) in his second Semester at the [Zurich University of the Arts](https://zhdk.ch) enrolled in the masters program ["Transdisciplinary Studies in the Arts"](https://www.zhdk.ch/en/degree-programmes/transdisciplinary-studies-73/transdisciplinarystudies). Special Thanks to: [Prof. Irene Vögeli](https://www.zhdk.ch/person/7848), [Basil Rogger](https://www.zhdk.ch/person/11115), [Jil Sanchez](https://jilsanchez.com/) and Marco Wettach.
+In the beginning, this essay was written by [Fernando Obieta](https://fernando-obieta.com) in his second Semester at the [Zurich University of the Arts](https://zhdk.ch) enrolled in the masters program ["Transdisciplinary Studies in the Arts"](https://www.zhdk.ch/en/degree-programmes/transdisciplinary-studies-73/transdisciplinarystudies). Special Thanks to: [Prof. Irene Vögeli](https://www.zhdk.ch/person/7848), [Basil Rogger](https://www.zhdk.ch/person/11115), [Jil Sanchez](https://jilsanchez.com/), [Nina Calderone](http://www.ninacalderone.com/), [Silvan Jeger](https://silvanjeger.ch/) and Marco Wettach.
 
 ## The digital space
 

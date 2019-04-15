@@ -17,10 +17,10 @@ export default class Export extends Component {
 			never finished.</p>
 
 			<p>I'm going on an adventure, to think and write about the landscape we're currently<sup><a href="#fn1-23958" id="fnr1-23958" title="see footnote" className="footnote">1</a></sup> in and the changes to our collective way of thinking about ourselves and the society<sup><a href="#fn2-23958" id="fnr2-23958" title="see footnote" className="footnote">2</a></sup> we're part of.
-			Thinking back, the last two decades marked a drastic shift in the ways individuals and groups communicate with each other in a modern world. The expectation that everyone around us knows how to use (and misuse) the new tools of communication and information reveals the ambiguity of the underlying concepts. With the implementation of this ambiguity into fixed systems – built mostly by private companies – our society also seem to lose the agency to advance themselves in the future. This is a pessimistic view of <a href="https://en.wikipedia.org/wiki/Digitization">digitization</a> and falls in line with the way of thinking of the <a href="https://en.wikipedia.org/wiki/Swing_Riots">Swing Riots in the 1830s</a>. One could think with the rhetoric used in news articles<sup><a href="#fn3-23958" id="fnr3-23958" title="see footnote" className="footnote">3</a></sup> discussing pitfalls and setbacks – from the point of view of companies working in these fields – that an <a href="https://en.wikipedia.org/wiki/Orwellian">&quot;Orwellian Dystopia&quot;</a> is the only logical outcome. A worrying outlook, but this not the whole story and much of it is still in our – individual and collective – hands.<br/>
+			Thinking back, the last two decades marked a drastic shift in the ways individuals and groups communicate with each other in a modern world. The expectation that everyone around us knows how to use (and misuse) the new tools of communication and information reveals the ambiguity of the underlying concepts. With the implementation of this ambiguity into fixed systems – built mostly by private companies – our society also seem to lose the agency to advance themselves in the future. This is a pessimistic view of <a href="https://en.wikipedia.org/wiki/Digitization" target="_blank">digitization</a> and falls in line with the way of thinking of the <a href="https://en.wikipedia.org/wiki/Swing_Riots" target="_blank">Swing Riots in the 1830s</a>. One could think with the rhetoric used in news articles<sup><a href="#fn3-23958" id="fnr3-23958" title="see footnote" className="footnote">3</a></sup> discussing pitfalls and setbacks – from the point of view of companies working in these fields – that an <a href="https://en.wikipedia.org/wiki/Orwellian" target="_blank">&quot;Orwellian Dystopia&quot;</a> is the only logical outcome. A worrying outlook, but this not the whole story and much of it is still in our – individual and collective – hands.<br/>
 			Maybe these changes we're all currently experiencing give us an opportunity not just to reflect on the new implementations of everyday interactions, but also on the interactions and concepts they're based on. Grand shifts in society tend to trigger discussions around specific variables and rarely society in its entirety, but that is exactly what we are currently undergoing as we try to translate more and more aspects and interactions of our everyday life into the digital realm under the flag of efficiency. The result is a deadening confusion amongst our peers and ourselves.</p>
 
-			<p>This essay doesn't only give a highly subjective and opinionated view of the matters at hand, but also challenge the reader with a few obstacles along the way. The structure isn't fixed, the conclusions and views are ever shifting – even while you're currently reading this –, and over time, there will be additional changes I and hopefully others will supply to this essay. You can follow and judge the progression of this construct on the <a href="https://github.com/blank-tree/permanentbeta.xyz">Git-Repository</a><sup><a href="#fn4-23958" id="fnr4-23958" title="see footnote" className="footnote">4</a></sup> or more specifically in the <a href="https://github.com/blank-tree/permanentbeta.xyz/commits/master">commit history</a>.</p>
+			<p>This essay doesn't only give a highly subjective and opinionated view of the matters at hand, but also challenge the reader with a few obstacles along the way. The structure isn't fixed, the conclusions and views are ever shifting – even while you're currently reading this –, and over time, there will be additional changes I and hopefully others will supply to this essay. You can follow and judge the progression of this construct on the <a href="https://github.com/blank-tree/permanentbeta.xyz" target="_blank">Git-Repository</a><sup><a href="#fn4-23958" id="fnr4-23958" title="see footnote" className="footnote">4</a></sup> or more specifically in the <a href="https://github.com/blank-tree/permanentbeta.xyz/commits/master" target="_blank">commit history</a>.</p>
 
 			<p>Because of the previously described nature of this essay, I am already providing my conclusion of the following paragraphs: Dividing opinions regarding the internet into dystopian or utopian camps misses the opportunity to think of something in between: The act of translation into the digital realm itself. This act – combined with the fact that any practice of abstraction and/or translation has to deal with a certain amount of loss of information – offers a working surface on which to place critique that can lead to reflection on the concept being translated regardless if it is revering to the &quot;original&quot; concept or the newly installed digital one. And right now, while we talk about &quot;digitization&quot;, is the moment to work on this theory before we are unable to distinguish between the implementation and the practice itself, and the translation becomes the replacing instance.
 			- When we criticise <em>Facebook</em>, we can think about <em>friendship</em> and <em>social interactions</em>.
@@ -29,7 +29,7 @@ export default class Export extends Component {
 
 			<h2>About</h2>
 
-			<p>In the beginning, this essay was written by <a href="https://fernando-obieta.com">Fernando Obieta</a> in his second Semester at the <a href="https://zhdk.ch">Zurich University of the Arts</a> enrolled in the masters program <a href="https://www.zhdk.ch/en/degree-programmes/transdisciplinary-studies-73/transdisciplinarystudies">&quot;Transdisciplinary Studies in the Arts&quot;</a>. Special Thanks to: <a href="https://www.zhdk.ch/person/7848">Prof. Irene Vögeli</a>, <a href="https://www.zhdk.ch/person/11115">Basil Rogger</a>, <a href="https://jilsanchez.com/">Jil Sanchez</a> and Marco Wettach.</p>
+			<p>In the beginning, this essay was written by <a href="https://fernando-obieta.com" target="_blank">Fernando Obieta</a> in his second Semester at the <a href="https://zhdk.ch" target="_blank">Zurich University of the Arts</a> enrolled in the masters program <a href="https://www.zhdk.ch/en/degree-programmes/transdisciplinary-studies-73/transdisciplinarystudies" target="_blank">&quot;Transdisciplinary Studies in the Arts&quot;</a>. Special Thanks to: <a href="https://www.zhdk.ch/person/7848" target="_blank">Prof. Irene Vögeli</a>, <a href="https://www.zhdk.ch/person/11115" target="_blank">Basil Rogger</a>, <a href="https://jilsanchez.com/" target="_blank">Jil Sanchez</a>, <a href="http://www.ninacalderone.com/" target="_blank">Nina Calderone</a>, <a href="https://silvanjeger.ch/" target="_blank">Silvan Jeger</a> and Marco Wettach.</p>
 
 			<h2>The digital space</h2>
 
@@ -38,7 +38,7 @@ export default class Export extends Component {
 			</figure>
 
 			<p>When we think about &quot;space&quot; we most commonly use it in two contexts: a physically existing space located in the world or a metaphorical one which often refers to time. The digital space is like no other we have encountered before because it doesn't behave like the spaces it is compared to, which are encapsulated within themselves, but penetrates nearly all of them in our physical world. It acts as an additional layer within and spanning across, which can also be understood as an additional layer of society.
-			In 1967, Michel Foucault described his concept of the <a href="https://en.wikipedia.org/wiki/Heterotopia_(space)">Heterotopia</a> :</p>
+			In 1967, Michel Foucault described his concept of the <a href="https://en.wikipedia.org/wiki/Heterotopia_(space)" target="_blank">Heterotopia</a> :</p>
 
 			<blockquote>
 			<p>&quot;There are also, probably in every culture, in every civilization, real places—places that do exist and that are formed in the very founding of society—which are something like counter-sites, a kind of effectively enacted utopia in which the real sites, all the other real sites that can be found within the culture, are simultaneously represented, contested, and inverted. Places of this kind are outside of all places, even though it may be possible to indicate their location in reality. Because these places are absolutely different from all the sites that they reflect and speak about, I shall call them, by way of contrast to utopias, heterotopias.&quot;<br/>
@@ -91,7 +91,7 @@ export default class Export extends Component {
 			<em>Bruno Latour, 1989</em><sup><a href="#fn12-23958" id="fnr12-23958" title="see footnote" className="footnote">12</a></sup></p>
 			</blockquote>
 
-			<p>Relocating the morality out of the individual into an artefact pushes the user of the artefact to follow the morality. The specific morality and its orientation isn't chosen by the user anymore but by the creators of the artefact. This way of thinking – organising morality, efficiency and risk – was the dream of <a href="https://en.wikipedia.org/wiki/Cybernetics">cybernetics</a> and <a href="https://en.wikipedia.org/wiki/Systems_theory">systems theorists</a>. An overspanning all-inclusive system which regulates all of its components with feedback-loops:</p>
+			<p>Relocating the morality out of the individual into an artefact pushes the user of the artefact to follow the morality. The specific morality and its orientation isn't chosen by the user anymore but by the creators of the artefact. This way of thinking – organising morality, efficiency and risk – was the dream of <a href="https://en.wikipedia.org/wiki/Cybernetics" target="_blank">cybernetics</a> and <a href="https://en.wikipedia.org/wiki/Systems_theory" target="_blank">systems theorists</a>. An overspanning all-inclusive system which regulates all of its components with feedback-loops:</p>
 			<div className="embed-container"><iframe src="https://player.vimeo.com/video/300725472#t=28m" width="640" height="358" frameBorder="0" allow="autoplay; fullscreen"></iframe></div>
 
 			<p><em>Adam Curtis, 2011</em>, 28:00 – 36:05<sup><a href="#fn13-23958" id="fnr13-23958" title="see footnote" className="footnote">13</a></sup></p>
@@ -116,14 +116,14 @@ export default class Export extends Component {
 
 			<p><em>Adam Curtis, 2016</em>, 23:26 – 26:55<sup><a href="#fn16-23958" id="fnr16-23958" title="see footnote" className="footnote">16</a></sup></p>
 
-			<p>When we apply the same logic Arkady and Boris Strugatsky coined with &quot;HyperNormalisation&quot; in <a href="https://en.wikipedia.org/wiki/Roadside_Picnic">Roadside Picnic</a>, as depicted in Adam Curtis' documentary of the same name to our digital age, we can start to ask the question of how much of this is &quot;progress&quot; and what is just a more efficient way of implementing our pre-existing concepts. A lot of our interpersonal problems that arose the last decade are rooted in a lack of progress in our sociological concepts of communication. Of course we have <a href="https://en.wikipedia.org/wiki/Emoji">Emojis</a> now to better convey what we really mean, but the basis stayed the same. Our ways of communication were never meant to have an efficiency of this magnitude.
-			- I wrote you a text on <em>WhatsApp</em> 15' ago. <a href="http://www.bbc.co.uk/newsbeat/article/29933261/blue-ticks-on-whatsapp-what-they-really-mean">I saw that you've read it</a> but you didn't reply!
+			<p>When we apply the same logic Arkady and Boris Strugatsky coined with &quot;HyperNormalisation&quot; in <a href="https://en.wikipedia.org/wiki/Roadside_Picnic" target="_blank">Roadside Picnic</a>, as depicted in Adam Curtis' documentary of the same name to our digital age, we can start to ask the question of how much of this is &quot;progress&quot; and what is just a more efficient way of implementing our pre-existing concepts. A lot of our interpersonal problems that arose the last decade are rooted in a lack of progress in our sociological concepts of communication. Of course we have <a href="https://en.wikipedia.org/wiki/Emoji" target="_blank">Emojis</a> now to better convey what we really mean, but the basis stayed the same. Our ways of communication were never meant to have an efficiency of this magnitude.
+			- I wrote you a text on <em>WhatsApp</em> 15' ago. <a href="http://www.bbc.co.uk/newsbeat/article/29933261/blue-ticks-on-whatsapp-what-they-really-mean" target="_blank">I saw that you've read it</a> but you didn't reply!
 			- 23:20 on a Sunday: Here's the assignment. Due by tomorrow at noon.
 			- I saw that you're friends now with Laura on <em>Facebook</em>. You know I hate her!</p>
 
 			<p>Maybe we're just pretending that these forms of communication are &quot;better&quot; or &quot;progress&quot;. They seem to make us more efficient but everything is also trying to get our attention and must be dealt with immediately. But if this thesis is true, why are we pretending? The only explanation I can think of is an empowered drive for validation and looking for the &quot;best possible solution&quot; for ourselves as an evolutionary drive.</p>
 
-			<p>In his book &quot;The Insanity of Normality&quot; the psychologist and psychoanalyst <a href="https://en.wikipedia.org/wiki/Arno_Gruen">Arno Gruen</a> is looking for a reasoning for this mode of behaviour and describes the empathetic nature of &quot;wanting to be loved&quot; and &quot;wants to love others&quot; in exchange for autonomy. We like to be guided towards these feelings and don't tend to reflect on how we achieve them in the process as long as they fulfill our desires. In this regard the shift towards the new forms of communication with their quick fixes of affirmation is almost logical.</p>
+			<p>In his book &quot;The Insanity of Normality&quot; the psychologist and psychoanalyst <a href="https://en.wikipedia.org/wiki/Arno_Gruen" target="_blank">Arno Gruen</a> is looking for a reasoning for this mode of behaviour and describes the empathetic nature of &quot;wanting to be loved&quot; and &quot;wants to love others&quot; in exchange for autonomy. We like to be guided towards these feelings and don't tend to reflect on how we achieve them in the process as long as they fulfill our desires. In this regard the shift towards the new forms of communication with their quick fixes of affirmation is almost logical.</p>
 
 			<h2>Who is my avatar</h2>
 
@@ -166,15 +166,15 @@ export default class Export extends Component {
 			</li>
 
 			<li id="fn3-23958">
-			<p>like the <a href="https://en.wikipedia.org/wiki/Cambridge_Analytica">Facebook–Cambridge Analytica data scandal 2018</a>, the leaks surrounding <a href="https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)">surveilance</a> which are on an all time high since the <a href="https://en.wikipedia.org/wiki/Edward_Snowden#Global_surveillance_disclosures">Snowden leaks in 2013</a>, the list is long... <a href="#fnr3-23958" title="return to article" className="reversefootnote">&#8617;&#xFE0E;</a></p>
+			<p>like the <a href="https://en.wikipedia.org/wiki/Cambridge_Analytica" target="_blank">Facebook–Cambridge Analytica data scandal 2018</a>, the leaks surrounding <a href="https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)" target="_blank">surveilance</a> which are on an all time high since the <a href="https://en.wikipedia.org/wiki/Edward_Snowden#Global_surveillance_disclosures" target="_blank">Snowden leaks in 2013</a>, the list is long... <a href="#fnr3-23958" title="return to article" className="reversefootnote">&#8617;&#xFE0E;</a></p>
 			</li>
 
 			<li id="fn4-23958">
-			<p>a <a href="https://en.wikipedia.org/wiki/Version_control">version control system</a> used and misused by programmers all over the world for sharing and collaborating on a variety of code based projects <a href="#fnr4-23958" title="return to article" className="reversefootnote">&#8617;&#xFE0E;</a></p>
+			<p>a <a href="https://en.wikipedia.org/wiki/Version_control" target="_blank">version control system</a> used and misused by programmers all over the world for sharing and collaborating on a variety of code based projects <a href="#fnr4-23958" title="return to article" className="reversefootnote">&#8617;&#xFE0E;</a></p>
 			</li>
 
 			<li id="fn5-23958">
-			<p><a href="http://web.mit.edu/allanmc/www/foucault1.pdf">Michel Foucault, 1967. <em>Of Other Spaces: Utopias and Heterotopias</em></a>, from <em>Architecture / Mouvement / Continuité</em>, October, 1984;(“Des Espace Autres,” March 1967 Translated from the French by Jay Miskowiec), p. 3-4 <a href="#fnr5-23958" title="return to article" className="reversefootnote">&#8617;&#xFE0E;</a></p>
+			<p><a href="http://web.mit.edu/allanmc/www/foucault1.pdf" target="_blank">Michel Foucault, 1967. <em>Of Other Spaces: Utopias and Heterotopias</em></a>, from <em>Architecture / Mouvement / Continuité</em>, October, 1984;(“Des Espace Autres,” March 1967 Translated from the French by Jay Miskowiec), p. 3-4 <a href="#fnr5-23958" title="return to article" className="reversefootnote">&#8617;&#xFE0E;</a></p>
 			</li>
 
 			<li id="fn6-23958">
@@ -182,7 +182,7 @@ export default class Export extends Component {
 			</li>
 
 			<li id="fn7-23958">
-			<p><a href="http://web.mit.edu/allanmc/www/foucault1.pdf">Michel Foucault, 1967. <em>Of Other Spaces: Utopias and Heterotopias</em></a>, from <em>Architecture / Mouvement / Continuité</em>, 1984; (“Des Espace Autres,” March 1967 Translated from the French by Jay Miskowiec), p. 7 <a href="#fnr7-23958" title="return to article" className="reversefootnote">&#8617;&#xFE0E;</a></p>
+			<p><a href="http://web.mit.edu/allanmc/www/foucault1.pdf" target="_blank">Michel Foucault, 1967. <em>Of Other Spaces: Utopias and Heterotopias</em></a>, from <em>Architecture / Mouvement / Continuité</em>, 1984; (“Des Espace Autres,” March 1967 Translated from the French by Jay Miskowiec), p. 7 <a href="#fnr7-23958" title="return to article" className="reversefootnote">&#8617;&#xFE0E;</a></p>
 			</li>
 
 			<li id="fn8-23958">
@@ -194,11 +194,11 @@ export default class Export extends Component {
 			</li>
 
 			<li id="fn10-23958">
-			<p><a href="https://youtu.be/w3_0x6oaDmI">Computerphile, Tom Scott, 2014. <em>Why Electronic Voting is a BAD Idea</em>, YouTube</a> <a href="#fnr10-23958" title="return to article" className="reversefootnote">&#8617;&#xFE0E;</a></p>
+			<p><a href="https://youtu.be/w3_0x6oaDmI" target="_blank">Computerphile, Tom Scott, 2014. <em>Why Electronic Voting is a BAD Idea</em>, YouTube</a> <a href="#fnr10-23958" title="return to article" className="reversefootnote">&#8617;&#xFE0E;</a></p>
 			</li>
 
 			<li id="fn11-23958">
-			<p>Matt Webb, 2012. <em>The near future inventor</em> in: <a href="https://roryhyde.com/Future-Practice">Rory Hyde, <em>Future Practice: Conversations from the Edge of Architecture</em></a>, New York: Routledge, 2012 <a href="#fnr11-23958" title="return to article" className="reversefootnote">&#8617;&#xFE0E;</a></p>
+			<p>Matt Webb, 2012. <em>The near future inventor</em> in: <a href="https://roryhyde.com/Future-Practice" target="_blank">Rory Hyde, <em>Future Practice: Conversations from the Edge of Architecture</em></a>, New York: Routledge, 2012 <a href="#fnr11-23958" title="return to article" className="reversefootnote">&#8617;&#xFE0E;</a></p>
 			</li>
 
 			<li id="fn12-23958">
@@ -234,7 +234,7 @@ export default class Export extends Component {
 			</li>
 
 			<li id="fn20-23958">
-			<p><a href="https://en.wikipedia.org/wiki/Radical_Technologies">Adam Greenfield, 2018. <em>Radical technologies : the design of everyday life</em></a> London: Verso., p. 310-311 <a href="#fnr20-23958" title="return to article" className="reversefootnote">&#8617;&#xFE0E;</a></p>
+			<p><a href="https://en.wikipedia.org/wiki/Radical_Technologies" target="_blank">Adam Greenfield, 2018. <em>Radical technologies : the design of everyday life</em></a> London: Verso., p. 310-311 <a href="#fnr20-23958" title="return to article" className="reversefootnote">&#8617;&#xFE0E;</a></p>
 			</li>
 
 			</ol>
